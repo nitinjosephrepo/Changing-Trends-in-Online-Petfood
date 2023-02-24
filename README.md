@@ -9,3 +9,7 @@ Use Pytrend which is an Unofficial API for Google Trends to visualize global cha
 ### Countries with Biggest Change for Dry Dog food in Last 3 months
 
 <img width="1003" alt="Screenshot 2023-02-24 at 4 59 00 PM" src="https://user-images.githubusercontent.com/80999165/221301325-8c923eee-09f2-40d8-9c2d-2ee7a2404713.png">
+
+### Countries with Biggest Change for Raw Dog food in Last 3 months
+
+<img width="1001" alt="Screenshot 2023-02-24 at 5 01 37 PM" src="https://user-images.githubusercontent.com/80999165/221301759-81f502f6-be8f-4072-87c8-bc93aa2a274f.png">
