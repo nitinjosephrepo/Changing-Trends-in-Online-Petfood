@@ -5,3 +5,7 @@ Use Pytrend which is an Unofficial API for Google Trends to visualize global cha
 ### Dog Food Search Preferences in last 12 Month
 
 <img width="1009" alt="Screenshot 2023-02-24 at 4 56 03 PM" src="https://user-images.githubusercontent.com/80999165/221301087-aa27a795-e4d4-439c-8e13-979a4c84b8a6.png">
+
+### Countries with Biggest Change for Dry Dog food in Last 3 months
+
+<img width="1003" alt="Screenshot 2023-02-24 at 4 59 00 PM" src="https://user-images.githubusercontent.com/80999165/221301325-8c923eee-09f2-40d8-9c2d-2ee7a2404713.png">
